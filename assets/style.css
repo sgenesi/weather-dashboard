@@ -2,3 +2,43 @@ header {
     margin-bottom: 2%;
 }
 
+.five-day-card {
+    background-color: blue;
+    width: 100%;
+    height: 100%;
+    color: white;
+    border-radius: 5px;
+}
+
+.cities-searched {
+    margin-top: 5%;
+}
+
+.cities-searched button {
+    width: 100%;
+}
+
+.weather-card {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: none;
+}
+
+.low-uv.index {
+    background-color: green;
+    color: white;
+    border-radius: 5px;
+}
+
+.med-uv-index {
+    background-attachment: yellow;
+    color: white;
+    border-radius: 5px;
+}
+
+.high-uv-index {
+    background-color: red;
+    color: white;
+    border-radius: 5px;
+}   
